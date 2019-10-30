@@ -1,7 +1,29 @@
 .log{
     position: absolute;
-    margin-top:48%;
+    margin-top:64%;
     height: 50%;
     width: 100%;
-    border: 1px solid green;
+}
+
+.log img{
+    position: absolute;
+    width: 50%;
+    top: 5%;
+    left: 25%;
+}
+
+@media screen and (max-width: 1024px){
+    .log{
+        position: absolute;
+        margin-top:64%;
+        height: 50%;
+        width: 100%;
+        background-color: white;
+    }
+    .log img{
+        position: absolute;
+        width: 40%;
+        top: 10%;
+        left: 30%;
+    }
 }

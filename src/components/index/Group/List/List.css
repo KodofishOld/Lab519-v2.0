@@ -1,43 +1,43 @@
-.gas img{
+.List img{
     position: absolute;
     width: 15%;
     left: 75%;
-    top:60%;
+    top:10%;
 }
 
-.gas h1{
+.List h1{
     position: absolute;
     color: white;
     font-size: 72px;
     left: 82%;
-    top:55%;
+    top:5%;
 }
 
 @media screen and (max-width: 1024px){
-    .gas h1{
+    .List h1{
         position: absolute;
         color: white;
-        left: 23%;
+        left: 63%;
         top:15%;
     }
-    .gas img{
+    .List img{
         position: absolute;
         width: 30%;
-        top: 20%;
-        left: 10%;
+        top: 18%;
+        left: 50%;
     }
 }
 
 @media screen and (max-width: 768px){
-    .gas h1{
+    .List h1{
         font-size: 54px;
         top:15%;
-        left: 20%;
+        left: 63%
     }
 }
 
 @media screen and (max-width: 414px){
-    .gas h1{
+    .List h1{
         font-size: 24px;
         top:20%;
     }

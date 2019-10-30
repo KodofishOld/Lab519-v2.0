@@ -6,7 +6,7 @@ class Footer extends React.Component{
     render() {
         return(
             <div className="Footer">
-                <h1>Footer</h1>
+                <h2>Lab519版權所有</h2>
             </div>
         )
     }

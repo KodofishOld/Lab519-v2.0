@@ -1,7 +1,21 @@
 .Footer{
     position: absolute;
-    margin-top:72%;
-    height: 10%;
+    margin-top:110%;
+    height: 5%;
     width: 100%;
-    border: 1px solid yellow;
+    background-color: black;
+}
+
+.Footer h2{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 45%;
+}
+
+@media screen and (max-width: 1024px){
+    .Footer{
+        position: absolute;
+        margin-top:150%;
+    }
 }

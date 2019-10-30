@@ -2,36 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6701d5-8887-4d7e-903a-4e1586d285b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Carousel/Caro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Carousel/Caro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Footer/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Ele/Ele.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Ele/Ele.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Gas/Gas.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Gas/Gas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Group.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Group.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Hum/Hum.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Hum/Hum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Temp/Temp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Group/Temp/Temp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Lab/Lab.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Lab/Lab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Log/Log.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Log/Log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Nav/Nav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Nav/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Team/Team.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index/Team/Team.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Layouts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index/Group/List/List.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index/Group/List/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index/teacher/Tea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index/teacher/Tea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Group/Gas/Gas.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Group/Gas/Gas.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Group/Group.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Group/Group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Group/Group.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Group/Group.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Lab/Lab.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Lab/Lab.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Lab/Lab.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Lab/Lab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Log/Log.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Log/Log.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Log/Log.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Log/Log.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Team/Team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Team/Team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Team/Team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Team/Team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Layouts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Layouts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +93,7 @@
       <workItem from="1572000047371" duration="3437000" />
       <workItem from="1572343875331" duration="8373000" />
       <workItem from="1572354234921" duration="173000" />
-      <workItem from="1572354470569" duration="4734000" />
+      <workItem from="1572354470569" duration="24387000" />
     </task>
     <servers />
   </component>

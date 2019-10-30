@@ -1,6 +1,68 @@
 .Lab{
     position: absolute;
-    height: 50%;
+    margin-top: -4%;
+    height: 90%;
     width: 100%;
-    border: 1px solid blue;
+    background-color: #f1f2f6;
 }
+.inf{
+    text-align: center;
+    font-size: 64px;
+    background-color: #f1f2f6;
+}
+
+.disn{
+    display: none;
+}
+
+table{
+    color: #f1f2f6;
+}
+
+h1{
+    text-align: center;
+    color: #f1f2f6;
+}
+
+@media screen and (max-width: 1024px){
+    .Lab{
+        display: none;
+    }
+    .inf{
+        display: none;
+    }
+    .disn{
+        position: absolute;
+        display: flex;
+        left: 15%;
+        font-size: 72px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .disn{
+        position: absolute;
+        display: flex;
+        left: 20%;
+        font-size: 48px;
+    }
+}
+
+@media screen and (max-width: 414px){
+    .disn{
+        position: absolute;
+        display: flex;
+        left: 15%;
+        font-size: 32px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .disn{
+        position: absolute;
+        display: flex;
+        left: 20%;
+        font-size: 24px;
+    }
+}
+

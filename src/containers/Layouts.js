@@ -7,6 +7,7 @@ import Lab from "../components/index/Lab/Lab";
 import Team from "../components/index/Team/Team";
 import Log from "../components/index/Log/Log";
 import Footer from "../components/index/Footer/Footer";
+import Tea from "../components/index/teacher/Tea";
 
 class Layouts extends React.Component{
     render(){
@@ -29,6 +30,9 @@ class Layouts extends React.Component{
                 </div>
                 <div>
                     <Log />
+                </div>
+                <div>
+                    <Tea />
                 </div>
                 <div>
                     <Footer/>

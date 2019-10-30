@@ -1,14 +1,12 @@
 import React from "react";
 import './Log.css'
 
-
+const Logs = require('./image/ACM.png');
 class Log extends React.Component{
     render() {
         return(
             <div className="log">
-                <h1>
-                    Login
-                </h1>
+                <img src={Logs} />
             </div>
         )
     }

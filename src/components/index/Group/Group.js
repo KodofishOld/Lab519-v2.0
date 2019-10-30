@@ -4,6 +4,7 @@ import Temp from "./Temp/Temp";
 import Hum from "./Hum/Hum";
 import Ele from "./Ele/Ele";
 import Gas from "./Gas/Gas";
+import Listview from "./List/List";
 
 class Groups extends React.Component{
     render() {
@@ -20,6 +21,9 @@ class Groups extends React.Component{
                     </div>
                     <div>
                         <Gas />
+                    </div>
+                    <div>
+                        <Listview />
                     </div>
                 </div>
         )
